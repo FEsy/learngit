@@ -1,3 +1,3 @@
-<?	
-	$h = "hello world";
+<?php 
+	$h = "hello world ";
 	echo $h;
